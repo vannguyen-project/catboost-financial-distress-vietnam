@@ -1,0 +1,7 @@
+data/*.csv
+*.xlsx
+official_df_raw.csv
+data_for_ml.csv
+catboost_info/
+.ipynb_checkpoints/
+.DS_Store
