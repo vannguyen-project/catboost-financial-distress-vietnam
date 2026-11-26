@@ -53,6 +53,10 @@ The raw data files are not included in this repository. See [`data/README.md`](d
 - It generally beat Logistic Regression and SVM, but Random Forest and XGBoost were slightly better at some horizons. Among tree-based ensembles, the differences were small.
 - **ROA was the most important predictor at every horizon.** Net profit margin and ROE were also always in the top five. Further from the event, the quick ratio became more important, suggesting that liquidity matters for longer-term risk.
 
+## Slides
+
+A 15-slide summary of the thesis, with result charts: [Predicting Financial Distress in Vietnamese Companies with CatBoost.pdf](Predicting%20Financial%20Distress%20in%20Vietnamese%20Companies%20with%20CatBoost.pdf)
+
 ## Repository
 
 ```
